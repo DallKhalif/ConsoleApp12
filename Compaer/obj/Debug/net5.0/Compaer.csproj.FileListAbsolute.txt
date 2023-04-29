@@ -1,0 +1,16 @@
+C:\Users\jiroo\Desktop\New folder\Compaer\bin\Debug\net5.0\Compaer.exe
+C:\Users\jiroo\Desktop\New folder\Compaer\bin\Debug\net5.0\Compaer.deps.json
+C:\Users\jiroo\Desktop\New folder\Compaer\bin\Debug\net5.0\Compaer.runtimeconfig.json
+C:\Users\jiroo\Desktop\New folder\Compaer\bin\Debug\net5.0\Compaer.runtimeconfig.dev.json
+C:\Users\jiroo\Desktop\New folder\Compaer\bin\Debug\net5.0\Compaer.dll
+C:\Users\jiroo\Desktop\New folder\Compaer\bin\Debug\net5.0\ref\Compaer.dll
+C:\Users\jiroo\Desktop\New folder\Compaer\bin\Debug\net5.0\Compaer.pdb
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\Compaer.csproj.AssemblyReference.cache
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\Compaer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\Compaer.AssemblyInfoInputs.cache
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\Compaer.AssemblyInfo.cs
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\Compaer.csproj.CoreCompileInputs.cache
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\Compaer.dll
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\ref\Compaer.dll
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\Compaer.pdb
+C:\Users\jiroo\Desktop\New folder\Compaer\obj\Debug\net5.0\Compaer.genruntimeconfig.cache
