@@ -6,9 +6,9 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Compaer("saa","saa");
+            CompaerValue(Console.ReadLine(), Console.ReadLine());
         }
-        public static void Compaer(string a, string b)
+        public static void CompaerValue(string a, string b)
         {
             if (string.Compare(a,b) >= 0)
             {
