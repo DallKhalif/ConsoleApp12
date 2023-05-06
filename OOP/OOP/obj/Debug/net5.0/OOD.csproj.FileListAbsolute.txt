@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\OOD\OOD\bin\Debug\net5.0\OOD.exe
+C:\Users\Admin\source\repos\OOD\OOD\bin\Debug\net5.0\OOD.deps.json
+C:\Users\Admin\source\repos\OOD\OOD\bin\Debug\net5.0\OOD.runtimeconfig.json
+C:\Users\Admin\source\repos\OOD\OOD\bin\Debug\net5.0\OOD.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OOD\OOD\bin\Debug\net5.0\OOD.dll
+C:\Users\Admin\source\repos\OOD\OOD\bin\Debug\net5.0\ref\OOD.dll
+C:\Users\Admin\source\repos\OOD\OOD\bin\Debug\net5.0\OOD.pdb
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\OOD.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\OOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\OOD.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\OOD.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\OOD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\OOD.dll
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\ref\OOD.dll
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\OOD.pdb
+C:\Users\Admin\source\repos\OOD\OOD\obj\Debug\net5.0\OOD.genruntimeconfig.cache
