@@ -1,0 +1,32 @@
+C:\Users\Admin\source\repos\Jiro\bin\Debug\net5.0\Jiro.exe
+C:\Users\Admin\source\repos\Jiro\bin\Debug\net5.0\Jiro.deps.json
+C:\Users\Admin\source\repos\Jiro\bin\Debug\net5.0\Jiro.runtimeconfig.json
+C:\Users\Admin\source\repos\Jiro\bin\Debug\net5.0\Jiro.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Jiro\bin\Debug\net5.0\Jiro.dll
+C:\Users\Admin\source\repos\Jiro\bin\Debug\net5.0\ref\Jiro.dll
+C:\Users\Admin\source\repos\Jiro\bin\Debug\net5.0\Jiro.pdb
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\Jiro.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\Jiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\Jiro.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\Jiro.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\Jiro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\Jiro.dll
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\ref\Jiro.dll
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\Jiro.pdb
+C:\Users\Admin\source\repos\Jiro\obj\Debug\net5.0\Jiro.genruntimeconfig.cache
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\Jiro.csproj.AssemblyReference.cache
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\Jiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\Jiro.AssemblyInfoInputs.cache
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\Jiro.AssemblyInfo.cs
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\Jiro.csproj.CoreCompileInputs.cache
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\Jiro.dll
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\ref\Jiro.dll
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\Jiro.pdb
+C:\Users\jiroo\Desktop\New folder\Jiro\bin\Debug\net5.0\Jiro.exe
+C:\Users\jiroo\Desktop\New folder\Jiro\bin\Debug\net5.0\Jiro.deps.json
+C:\Users\jiroo\Desktop\New folder\Jiro\bin\Debug\net5.0\Jiro.runtimeconfig.json
+C:\Users\jiroo\Desktop\New folder\Jiro\bin\Debug\net5.0\Jiro.runtimeconfig.dev.json
+C:\Users\jiroo\Desktop\New folder\Jiro\bin\Debug\net5.0\Jiro.dll
+C:\Users\jiroo\Desktop\New folder\Jiro\bin\Debug\net5.0\ref\Jiro.dll
+C:\Users\jiroo\Desktop\New folder\Jiro\bin\Debug\net5.0\Jiro.pdb
+C:\Users\jiroo\Desktop\New folder\Jiro\obj\Debug\net5.0\Jiro.genruntimeconfig.cache
